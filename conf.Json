@@ -1,0 +1,25 @@
+{
+    "nombre":"ortodoncia",
+    "descripcion":"Ortodoncia",
+    "Default_dent":[],
+    "ExtraccionIndicada":[],
+    "DienteAusente":[],
+    "extracionRealizada":[],
+    "configuracion":[
+        {
+            "nombre":"Extración Indicada",
+            "color":"#969090",
+            "muestra": "20px"
+        },
+        {
+            "nombre":"Diente Ausente",
+            "color":"#a90e0ee0",
+            "muestra": "20px"
+        },
+        {
+            "nombre":"Extracción Realizada",
+            "color":"#000000e6",
+            "muestra": "20px"
+        }
+    ]
+}
