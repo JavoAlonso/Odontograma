@@ -5,7 +5,7 @@ $(document).ready(function () {
     try {
         $.ajax({
             type: "get",
-            url: "./conf.json",
+            url: "conf.json",
             data: {},
             dataType: "Json",
             complete: function (c){
