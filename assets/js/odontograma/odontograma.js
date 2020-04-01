@@ -5,9 +5,9 @@ $(document).ready(function () {
     try {
         $.ajax({
             type: "get",
-            url: "/conf.json",
+            url: "./conf.Json",
             data: {},
-            dataType: "Json",
+            dataType: "json",
             complete: function (c){
             },
             success: function (s) {
