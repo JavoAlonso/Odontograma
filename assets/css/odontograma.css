@@ -1,0 +1,45 @@
+#brand-logo {
+  font-size: 34px;
+}
+
+#app-navbar {
+  background: linear-gradient(120deg, #980dae, #691265);
+}
+
+.text-primary {
+  color: #5f595f!important;
+}
+
+.x {
+  background: rgb(249,196,196);
+  width: 5px;
+}
+
+.y {
+  background: rgb(249,196,196);
+  width: 5px;
+}
+
+.letras {
+  color: rgb(145,143,143);
+}
+
+.diente {
+  position: relative;
+}
+
+.diente:hover {
+  cursor: pointer;
+  background: linear-gradient(120deg, rgba(152,13,174,0.73), rgba(105,18,101,0.56));
+  box-shadow: 1px 1px 9px 1px rgb(0,0,0);
+  border-radius: 5px;
+  color: rgb(249,244,244);
+}
+
+@media (min-width: 300px) {
+  .diente img {
+    width: 25px;
+    height: 25px;
+  }
+}
+
